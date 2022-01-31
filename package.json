@@ -19,17 +19,17 @@
     "start": "echo \"Running...\" && node -r dotenv/config . && echo \"Done\""
   },
   "devDependencies": {
-    "@types/node": "^16.11.7",
-    "@typescript-eslint/eslint-plugin": "^5.4.0",
-    "@typescript-eslint/parser": "^5.4.0",
-    "eslint": "^8.2.0",
+    "@types/node": "^17.0.13",
+    "@typescript-eslint/eslint-plugin": "^5.10.1",
+    "@typescript-eslint/parser": "^5.10.1",
+    "eslint": "^8.8.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^4.0.0",
-    "eslint-plugin-promise": "^5.1.1",
-    "eslint-plugin-sonarjs": "^0.10.0",
-    "typescript": "^4.4.4"
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-sonarjs": "^0.11.0",
+    "typescript": "^4.5.5"
   },
   "dependencies": {
-    "dotenv": "^10.0.0"
+    "dotenv": "^15.0.0"
   }
 }
